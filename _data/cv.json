@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Peter Hall",
+    "email": "first.last.1142@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://peterhall10.github.io/peterhall.github.io/",
+    "summary": "Cryptographer and tech+science writer based in Brooklyn, NY.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Brooklyn",
       "countryCode": "US",
       "region": ""
     },
@@ -23,39 +23,34 @@
         "username": "",
         "url": "https://orcid.org/yourorcidurl"
       },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "New York University",
+      "area": "Ph.D in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2021",
+      "endDate": "2026",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Connecticut",
+      "area": "M.S. in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2021",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Connecticut",
+      "area": "B.A. in Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2017",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     }
@@ -66,87 +61,112 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "The Generalized Riemann Hypothesis and Applications to Primality Testing",
+      "publisher": "University Scholar Thesis, University of Connecticut",
+      "releaseDate": "2021",
+      "website": "https://digitalcommons.lib.uconn.edu/usp_projects/84/",
+      "summary": "I present an exposition of the Generalized Riemann Hypothesis and describe its applications to primality testing as part of my undergraduate thesis project."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Nonmalleable Digital Lockers and Robust Fuzzy Extractors in the Plain Model",
+      "publisher": "Advances in Cryptology — ASIACRYPT 2022",
+      "releaseDate": "2022",
+      "website": "https://eprint.iacr.org/2022/1108",
+      "summary": "We build VBB obfuscation for multi-bit output point functions in order to construct robust fuzzy extractors without the use of a common reference string."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Random Oracle Combiners: Breaking the Concatenation Barrier for Collision-Resistance",
+      "publisher": "Advances in Cryptology — CRYPTO 2023",
+      "releaseDate": "2023",
+      "website": "https://eprint.iacr.org/2023/1041",
+      "summary": "We build short combiners for hash functions, where the output is collision-resistant assuming one input is a random oracle (and the other is potentially maliciously constructed)."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Community Norms as Self-Regulation of Generative AI in Creative Industries",
+      "publisher": "Generative AI + Law (GenLaw), '24",
+      "releaseDate": "2024",
+      "website": "https://blog.genlaw.org/pdfs/genlaw_icml2024/80.pdf",
+      "summary": "We give technical reasoning for the differences between AI and previous forms of automation with respect to work in creative industries."
+    },
+    {
+      "name": "Towards Permissionless Consensus in the Standard Model: Agreement via Fine-Grained Complexity",
+      "publisher": "Advances in Cryptology — CRYPTO 2024",
+      "releaseDate": "2024",
+      "website": "https://eprint.iacr.org/2024/637",
+      "summary": "We use fine-grained assumptions about the orthogonal vectors problem in order to build permissionless consensus without random oracles. Assuming sub-exp DDH, we extend this to a more efficient construction."
+    },
+    {
+      "name": "HELP: Everlasting Privacy through Server-Aided Randomness",
+      "publisher": "Communications in Cryptology, Vol. 1, Issue 4",
+      "releaseDate": "2024",
+      "website": "https://eprint.iacr.org/2025/140",
+      "summary": "Assuming servers which dole out periodically refreshing random seeds, we show how to send messages with everlasting privacy."
+    },
+    {
+      "name": "The Pitfalls of “Security by Obscurity” and What They Mean for Transparent AI",
+      "publisher": "39th Annual AAAI Conference on Artificial Intelligence – AAAI 2025, Social Impact Track",
+      "releaseDate": "2025",
+      "website": "https://arxiv.org/abs/2501.18669",
+      "summary": "We compare the arguments around obscuring AI research and development with similar historical arguments around security in order to better understand the importance of transparent AI."
+    },
+    {
+      "name": "Random Oracle Combiners: Merkle-Damgård Style",
+      "publisher": "Advances in Cryptology - EUROCRYPT 2025",
+      "releaseDate": "2025",
+      "website": "https://eprint.iacr.org/2025/609",
+      "summary": "We extend our previous results on random oracle combiners to Merkle-Damgård transformations of random oracles using a subtle technical argument."
+    },
+    {
+      "name": "A Meta-Complexity Characterization of Quantum Cryptography",
+      "publisher": "Advances in Cryptology - EUROCRYPT 2025",
+      "releaseDate": "2025",
+      "website": "https://eccc.weizmann.ac.il/report/2024/156/"
     }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  ]
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Fundamental Algorithms (CSCI-GA 1170)",
+      "institution": "New York University, Computer Science Dept.",
+      "role": "Recitation Leader and Course Assistant",
+      "description": "Served as Recitation Leader (leading discussion section similar to TA) and Course Assistant (generating assignments and coordinating course materials) in Summer 2023, Fall 2023, Spring 2024."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Basic Algorithms (CSCI-UA 310)",
+      "institution": "New York University, Computer Science Dept.",
+      "role": "Recitation Leader and Course Assistant",
+      "description": "Served as Recitation Leader and/or Course Assistant in Spring 2022, Fall 2022, Spring 2025, Fall 2025."
+    },
+    {
+      "course": "C Programming (CS-310)",
+      "institution": "University of Connecticut, Computer Science Dept.",
+      "role": "Teaching Assistant",
+      "description": "Served as Teaching Assistant (leading discussion section and grading) for the course in Spring 2021."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Cryptographers Show that AI Protections Will Always Have Holes",
       "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "date": "2025-12-10",
+      "url": "https://www.quantamagazine.org/cryptographers-show-that-ai-protections-will-always-have-holes-20251210",
+    },
+    {
+      "name": "These protocols will help AI navigate our messy lives",
+      "category": "portfolio",
+      "date": "2025-8-4",
+      "url": "https://www.technologyreview.com/2025/08/04/1120996/protocols-help-agents-navigate-lives-mcp-a2a/",
+    },
+    {
+      "name": "This tool strips away anti-AI protections from digital art",
+      "category": "portfolio",
+      "date": "2025-7-10",
+      "url": "https://www.technologyreview.com/2025/07/10/1119937/tool-strips-away-anti-ai-protections-from-digital-art/",
+    },
+    {
+      "name": "The Challenge of Preserving Good Data in the Age of AI",
+      "category": "portfolio",
+      "date": "2024-9-26",
+      "url": "https://undark.org/2024/09/26/opinion-challenge-of-preserving-good-data-ai/",
     }
   ]
 }
